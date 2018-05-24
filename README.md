@@ -8,9 +8,9 @@ Miguel Angel Lopez Prada 20161020534
 
 Profesores que aparecen:
 
-Carlos arturo reina
-Zulima ortiz bayona
-Gerardo Tole
+Carlos arturo reina,
+Zulima ortiz bayona,
+Gerardo Tole.
 
 
 Controles:
